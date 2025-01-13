@@ -1,0 +1,265 @@
+[
+    {
+        "id": 1,
+        "type": "credit",
+        "amount": "345.45",
+        "name": "IKEA",
+        "descr": "Purchase at IKEA",
+        "date": "1/10/2025",
+        "pending": true,
+        "user": "Diana"
+    },
+    {
+        "id": 2,
+        "type": "payment",
+        "amount": "200.00",
+        "descr": "Payment from John",
+        "date": "1/5/2025",
+        "pending": false
+    },
+    {
+        "id": 3,
+        "type": "credit",
+        "amount": "150.75",
+        "name": "Amazon",
+        "descr": "Amazon order",
+        "date": "1/2/2025",
+        "pending": true
+    },
+    {
+        "id": 4,
+        "type": "credit",
+        "amount": "480.00",
+        "name": "Walmart",
+        "descr": "Shopping at Walmart",
+        "date": "12/1/2024",
+        "pending": false,
+        "user": "Alex"
+    },
+    {
+        "id": 5,
+        "type": "payment",
+        "amount": "300.25",
+        "descr": "Payment from Sarah",
+        "date": "12/3/2024",
+        "pending": false
+    },
+    {
+        "id": 6,
+        "type": "credit",
+        "amount": "210.50",
+        "name": "Target",
+        "descr": "Target purchase",
+        "date": "1/7/2025",
+        "pending": true
+    },
+    {
+        "id": 7,
+        "type": "credit",
+        "amount": "95.10",
+        "name": "Costco",
+        "descr": "Costco groceries",
+        "date": "12/2/2024",
+        "pending": true
+    },
+    {
+        "id": 8,
+        "type": "payment",
+        "amount": "50.00",
+        "descr": "Payment from Michael",
+        "date": "12/5/2024",
+        "pending": false
+    },
+    {
+        "id": 9,
+        "type": "credit",
+        "amount": "175.00",
+        "name": "Best Buy",
+        "descr": "Electronics purchase",
+        "date": "12/3/2024",
+        "pending": false,
+        "user": "Emily"
+    },
+    {
+        "id": 10,
+        "type": "payment",
+        "amount": "120.00",
+        "descr": "Payment from Alice",
+        "date": "12/16/2024",
+        "pending": true
+    },
+    {
+        "id": 11,
+        "type": "credit",
+        "amount": "300.50",
+        "name": "Zara",
+        "descr": "Clothing purchase",
+        "date": "12/6/2024",
+        "pending": true
+    },
+    {
+        "id": 12,
+        "type": "credit",
+        "amount": "140.30",
+        "name": "H&M",
+        "descr": "Shopping at H&M",
+        "date": "12/12/2024",
+        "pending": false
+    },
+    {
+        "id": 13,
+        "type": "payment",
+        "amount": "75.00",
+        "descr": "Payment from Bob",
+        "date": "12/8/2024",
+        "pending": false
+    },
+    {
+        "id": 14,
+        "type": "credit",
+        "amount": "220.60",
+        "name": "Nike",
+        "descr": "Purchase from Nike",
+        "date": "12/10/2024",
+        "pending": true,
+        "user": "Mike"
+    },
+    {
+        "id": 15,
+        "type": "payment",
+        "amount": "55.75",
+        "descr": "Payment from Kate",
+        "date": "1/13/2025",
+        "pending": false
+    },
+    {
+        "id": 16,
+        "type": "credit",
+        "amount": "310.00",
+        "name": "Adidas",
+        "descr": "Adidas shopping",
+        "date": "1/11/2025",
+        "pending": false
+    },
+    {
+        "id": 17,
+        "type": "credit",
+        "amount": "450.40",
+        "name": "Apple Store",
+        "descr": "Purchase at Apple Store",
+        "date": "12/18/2024",
+        "pending": true
+    },
+    {
+        "id": 18,
+        "type": "payment",
+        "amount": "180.00",
+        "descr": "Payment from Olivia",
+        "date": "12/19/2024",
+        "pending": true
+    },
+    {
+        "id": 19,
+        "type": "credit",
+        "amount": "500.00",
+        "name": "Sephora",
+        "descr": "Sephora cosmetics",
+        "date": "12/20/2024",
+        "pending": false
+    },
+    {
+        "id": 20,
+        "type": "payment",
+        "amount": "60.00",
+        "descr": "Payment from Jack",
+        "date": "12/21/2024",
+        "pending": false
+    },
+    {
+        "id": 21,
+        "type": "credit",
+        "amount": "85.30",
+        "name": "Starbucks",
+        "descr": "Coffee purchase",
+        "date": "12/4/2024",
+        "pending": true
+    },
+    {
+        "id": 22,
+        "type": "credit",
+        "amount": "123.45",
+        "name": "McDonald's",
+        "descr": "Fast food",
+        "date": "11/30/2024",
+        "pending": false
+    },
+    {
+        "id": 23,
+        "type": "payment",
+        "amount": "40.00",
+        "descr": "Payment from Jane",
+        "date": "11/29/2024",
+        "pending": false
+    },
+    {
+        "id": 24,
+        "type": "credit",
+        "amount": "240.10",
+        "name": "Gap",
+        "descr": "Clothes shopping",
+        "date": "11/28/2024",
+        "pending": true
+    },
+    {
+        "id": 25,
+        "type": "credit",
+        "amount": "190.70",
+        "name": "Old Navy",
+        "descr": "Purchase at Old Navy",
+        "date": "11/27/2024",
+        "pending": true
+    },
+    {
+        "id": 26,
+        "type": "payment",
+        "amount": "300.00",
+        "descr": "Payment from Clara",
+        "date": "11/26/2024",
+        "pending": false
+    },
+    {
+        "id": 27,
+        "type": "credit",
+        "amount": "460.90",
+        "name": "Macy's",
+        "descr": "Shopping at Macy's",
+        "date": "11/25/2024",
+        "pending": true
+    },
+    {
+        "id": 28,
+        "type": "credit",
+        "amount": "300.00",
+        "name": "Ulta Beauty",
+        "descr": "Cosmetics purchase",
+        "date": "12/22/2024",
+        "pending": true
+    },
+    {
+        "id": 29,
+        "type": "payment",
+        "amount": "75.00",
+        "descr": "Payment from Sam",
+        "date": "12/23/2024",
+        "pending": true
+    },
+    {
+        "id": 30,
+        "type": "credit",
+        "amount": "420.50",
+        "name": "Lululemon",
+        "descr": "Activewear purchase",
+        "date": "12/24/2024",
+        "pending": false
+    }
+]
