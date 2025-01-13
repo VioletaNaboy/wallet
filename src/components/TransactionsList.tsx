@@ -14,9 +14,8 @@ export const TransactionsList: React.FC<TransactionsListProps> = ({ data }) => {
 
     return (
         <div>
-            <h2>Latest Transactions</h2>
-
-            {data ? <ul>
+            <h2 className="text-2xl text-left text-black font-extrabold mb-4">Latest Transactions</h2>
+            {data ? <ul className="bg-white rounded-xl">
                 {transactions.slice(0, 10).map((t) => <TransactionItem key={t.id} item={t as Transaction} />)}
             </ul> : <h3>No Transaction found</h3>}
 
